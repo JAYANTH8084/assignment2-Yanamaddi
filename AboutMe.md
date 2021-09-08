@@ -3,3 +3,13 @@ My self jayanth yanamaddi done my graduation in year 2018. I worked as an SAP ab
 
 
 ![ My Image](/jayanth.jpg?raw=true)
+
+# Food and Drinks
+The below table describes the Food and Drinks available at the best deals in the nearby locations.
+
+| Food/Drink |   Place     |  Price  |
+| ---------- |   -----     |  ------ |
+|  Pepsi     |    MCD      |   2$    |
+|  Fries     |    KFC      |   5$    |
+|  Noodles   |    Tachos   |   3$    |
+|  Nuggets   |    B King   |   7$    |
