@@ -14,5 +14,17 @@
    3. Ride over the places around
 4. Return to Chicago and arrive at kansas via flight.
 
+* A handy cam to shoot views
+* A drone to cover 
+* Food
+  * instant maggi
+  * Rice
+  * Fruits
+  * Drinks
+* Clothes and necessary things.
+
+---
+
+
 
  
